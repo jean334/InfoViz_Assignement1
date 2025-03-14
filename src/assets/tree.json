@@ -1,0 +1,592 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "History",
+            "children": [
+                {
+                    "name": "British_History",
+                    "children": [
+                        {
+                            "name": "British_History_1500_and_before_including_Roman_Britain",
+                            "size": 1
+                        },
+                        {
+                            "name": "British_History_15001750",
+                            "size": 1
+                        },
+                        {
+                            "name": "British_History_17501900",
+                            "size": 1
+                        },
+                        {
+                            "name": "British_History_Post_1900",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "General_history",
+                    "size": 1
+                },
+                {
+                    "name": "Military_History_and_War",
+                    "size": 1
+                },
+                {
+                    "name": "Recent_History",
+                    "size": 1
+                },
+                {
+                    "name": "Ancient_History_Classical_History_and_Mythology",
+                    "size": 1
+                },
+                {
+                    "name": "Pre_1900_Military",
+                    "size": 1
+                },
+                {
+                    "name": "World_War_II",
+                    "size": 1
+                },
+                {
+                    "name": "Archaeology",
+                    "size": 1
+                },
+                {
+                    "name": "Historians_chroniclers_and_history_books",
+                    "size": 1
+                },
+                {
+                    "name": "North_American_History",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "People",
+            "children": [
+                {
+                    "name": "Historical_figures",
+                    "size": 1
+                },
+                {
+                    "name": "Artists",
+                    "size": 1
+                },
+                {
+                    "name": "Sports_and_games_people",
+                    "size": 1
+                },
+                {
+                    "name": "Geographers_and_explorers",
+                    "size": 1
+                },
+                {
+                    "name": "Writers_and_critics",
+                    "size": 1
+                },
+                {
+                    "name": "USA_Presidents",
+                    "size": 1
+                },
+                {
+                    "name": "Religious_figures_and_leaders",
+                    "size": 1
+                },
+                {
+                    "name": "Political_People",
+                    "size": 1
+                },
+                {
+                    "name": "Producers_directors_and_media_figures",
+                    "size": 1
+                },
+                {
+                    "name": "Mathematicians",
+                    "size": 1
+                },
+                {
+                    "name": "Astronomers_and_physicists",
+                    "size": 1
+                },
+                {
+                    "name": "Engineers_and_inventors",
+                    "size": 1
+                },
+                {
+                    "name": "Military_People",
+                    "size": 1
+                },
+                {
+                    "name": "Chemists",
+                    "size": 1
+                },
+                {
+                    "name": "Monarchs_of_Great_Britain",
+                    "size": 1
+                },
+                {
+                    "name": "Actors_models_and_celebrities",
+                    "size": 1
+                },
+                {
+                    "name": "Performers_and_composers",
+                    "size": 1
+                },
+                {
+                    "name": "Philosophers",
+                    "size": 1
+                },
+                {
+                    "name": "Human_Scientists",
+                    "size": 1
+                },
+                {
+                    "name": "Computing_People",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Countries",
+            "size": 1
+        },
+        {
+            "name": "Geography",
+            "children": [
+                {
+                    "name": "European_Geography",
+                    "children": [
+                        {
+                            "name": "European_Countries",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Storms",
+                    "size": 1
+                },
+                {
+                    "name": "Geology_and_geophysics",
+                    "size": 1
+                },
+                {
+                    "name": "Natural_Disasters",
+                    "size": 1
+                },
+                {
+                    "name": "Geography_of_the_Middle_East",
+                    "size": 1
+                },
+                {
+                    "name": "Geography_of_Great_Britain",
+                    "size": 1
+                },
+                {
+                    "name": "African_Geography",
+                    "size": 1
+                },
+                {
+                    "name": "Geography_of_Asia",
+                    "children": [
+                        {
+                            "name": "Asian_Countries",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "General_Geography",
+                    "size": 1
+                },
+                {
+                    "name": "Geography_of_Oceania_Australasia",
+                    "size": 1
+                },
+                {
+                    "name": "North_American_Geography",
+                    "size": 1
+                },
+                {
+                    "name": "Central_and_South_American_Geography",
+                    "size": 1
+                },
+                {
+                    "name": "Mineralogy",
+                    "size": 1
+                },
+                {
+                    "name": "Peoples",
+                    "size": 1
+                },
+                {
+                    "name": "Antarctica",
+                    "size": 1
+                },
+                {
+                    "name": "Climate_and_the_Weather",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Business_Studies",
+            "children": [
+                {
+                    "name": "Currency",
+                    "size": 1
+                },
+                {
+                    "name": "Companies",
+                    "size": 1
+                },
+                {
+                    "name": "Business",
+                    "size": 1
+                },
+                {
+                    "name": "Economics",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "children": [
+                {
+                    "name": "Physics",
+                    "children": [
+                        {
+                            "name": "Space_Astronomy",
+                            "size": 1
+                        },
+                        {
+                            "name": "General_Physics",
+                            "size": 1
+                        },
+                        {
+                            "name": "Space_transport",
+                            "size": 1
+                        },
+                        {
+                            "name": "Electricity_and_Electronics",
+                            "size": 1
+                        },
+                        {
+                            "name": "The_Planets",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Biology",
+                    "children": [
+                        {
+                            "name": "Health_and_medicine",
+                            "size": 1
+                        },
+                        {
+                            "name": "Mammals",
+                            "size": 1
+                        },
+                        {
+                            "name": "Plants",
+                            "size": 1
+                        },
+                        {
+                            "name": "General_Biology",
+                            "size": 1
+                        },
+                        {
+                            "name": "Birds",
+                            "size": 1
+                        },
+                        {
+                            "name": "Insects_Reptiles_and_Fish",
+                            "size": 1
+                        },
+                        {
+                            "name": "Dinosaurs",
+                            "size": 1
+                        },
+                        {
+                            "name": "Organisms",
+                            "size": 1
+                        },
+                        {
+                            "name": "Evolution_and_reproduction",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Chemistry",
+                    "children": [
+                        {
+                            "name": "Chemical_compounds",
+                            "size": 1
+                        },
+                        {
+                            "name": "Chemical_elements",
+                            "size": 1
+                        },
+                        {
+                            "name": "General_Chemistry",
+                            "size": 1
+                        },
+                        {
+                            "name": "Materials_science",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Everyday_life",
+            "children": [
+                {
+                    "name": "Sports_events",
+                    "size": 1
+                },
+                {
+                    "name": "Everyday_life",
+                    "size": 1
+                },
+                {
+                    "name": "Drink",
+                    "size": 1
+                },
+                {
+                    "name": "Food_and_agriculture",
+                    "size": 1
+                },
+                {
+                    "name": "Sports_teams",
+                    "size": 1
+                },
+                {
+                    "name": "Sports",
+                    "size": 1
+                },
+                {
+                    "name": "Computer_and_Video_games",
+                    "size": 1
+                },
+                {
+                    "name": "Films",
+                    "size": 1
+                },
+                {
+                    "name": "Recreation",
+                    "size": 1
+                },
+                {
+                    "name": "Television",
+                    "size": 1
+                },
+                {
+                    "name": "Games",
+                    "size": 1
+                },
+                {
+                    "name": "Cartoons",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Design_and_Technology",
+            "children": [
+                {
+                    "name": "Railway_transport",
+                    "size": 1
+                },
+                {
+                    "name": "Air_and_Sea_transport",
+                    "size": 1
+                },
+                {
+                    "name": "Engineering",
+                    "size": 1
+                },
+                {
+                    "name": "Architecture",
+                    "size": 1
+                },
+                {
+                    "name": "Road_transport",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "children": [
+                {
+                    "name": "Performers_and_composers",
+                    "size": 1
+                },
+                {
+                    "name": "Musical_genres_styles_eras_and_events",
+                    "size": 1
+                },
+                {
+                    "name": "Musical_Recordings_and_compositions",
+                    "size": 1
+                },
+                {
+                    "name": "Musical_Instruments",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "IT",
+            "children": [
+                {
+                    "name": "Computing_hardware_and_infrastructure",
+                    "size": 1
+                },
+                {
+                    "name": "Websites_and_the_Internet",
+                    "size": 1
+                },
+                {
+                    "name": "Computer_Programming",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "Cryptography",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Language_and_literature",
+            "children": [
+                {
+                    "name": "Novels",
+                    "size": 1
+                },
+                {
+                    "name": "Theatre",
+                    "size": 1
+                },
+                {
+                    "name": "Literature_types",
+                    "size": 1
+                },
+                {
+                    "name": "Languages",
+                    "size": 1
+                },
+                {
+                    "name": "Poetry_and_Opera",
+                    "size": 1
+                },
+                {
+                    "name": "Linguistics",
+                    "size": 1
+                },
+                {
+                    "name": "General_Literature",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Mathematics",
+            "size": 1
+        },
+        {
+            "name": "Religion",
+            "children": [
+                {
+                    "name": "Religious_movements_traditions_and_organizations",
+                    "size": 1
+                },
+                {
+                    "name": "Religious_texts",
+                    "size": 1
+                },
+                {
+                    "name": "Philosophy",
+                    "size": 1
+                },
+                {
+                    "name": "Religious_disputes",
+                    "size": 1
+                },
+                {
+                    "name": "Divinities",
+                    "size": 1
+                },
+                {
+                    "name": "Myths",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "children": [
+                {
+                    "name": "Art",
+                    "size": 1
+                },
+                {
+                    "name": "Artists",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Citizenship",
+            "children": [
+                {
+                    "name": "Environment",
+                    "size": 1
+                },
+                {
+                    "name": "Politics_and_government",
+                    "size": 1
+                },
+                {
+                    "name": "Media",
+                    "size": 1
+                },
+                {
+                    "name": "Animal_and_Human_Rights",
+                    "size": 1
+                },
+                {
+                    "name": "Conflict_and_Peace",
+                    "size": 1
+                },
+                {
+                    "name": "Community_organisations",
+                    "size": 1
+                },
+                {
+                    "name": "Law",
+                    "size": 1
+                },
+                {
+                    "name": "Culture_and_Diversity",
+                    "size": 1
+                },
+                {
+                    "name": "Education",
+                    "size": 1
+                }
+            ]
+        }
+    ]
+}

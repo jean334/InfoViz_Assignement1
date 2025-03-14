@@ -1,0 +1,24 @@
+.slider-container {
+  display: flex;
+  justify-content: left;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+
+.slider-inter label{
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+
+.slider-intra label{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+  }
+  
+
+.slider-inter{
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+}
